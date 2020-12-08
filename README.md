@@ -14,6 +14,6 @@ First half of the code is based on finding out the market trend by analysing the
 
 In the second half of the code we have analysed the financial and non finaical data of a company and analysed that is it safe to invest in the company or not  
 
-- In terms of dataset we have used a real world data set of chinees company 
+- In terms of dataset we have used a real world data set of a company 
 -
 -
